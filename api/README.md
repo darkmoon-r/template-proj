@@ -3,7 +3,7 @@
   <p>In this directory, you can store functions and queries designed to retrieve data from the backend.</p>
 </div>
 
-## Example (api/queries/userlist.js)
+## Example (api/queries/userList.js)
 
     import { gql } from '@apollo/client';
 
@@ -20,4 +20,4 @@
 
     export { USER_LIST };
 
-### [Return](../README.md)
+### [Return To Home](../README.md)
