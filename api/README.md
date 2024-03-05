@@ -1,6 +1,6 @@
 <div align="center">
   <h1>API</h1>
-  <p>In this directory, you can store functions and queries designed to retrieve data from the backend.</p>
+  <p>In this directory, you can store functions and queries used to retrieve data from the backend.</p>
 </div>
 
 ## Example (api/queries/userList.js)
